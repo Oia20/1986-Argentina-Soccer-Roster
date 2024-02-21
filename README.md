@@ -1,7 +1,7 @@
 # 1986-Argentina-Soccer-Roster
 I only did the JS for this project, the HTML and CSS were pre completed by FCC
 
-Github Pages for this project: https://oia20.github.io/isItAPalindrome/
+Github Pages for this project: https://oia20.github.io/1986-Argentina-Soccer-Roster/
 
 Technologies used:
 - HTML
